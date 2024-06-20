@@ -90,7 +90,7 @@ Laravel new laravel-multi-languages
 
 ```
 
-**[Step - 3]** **Language setup:** create a folder on root directory (lang)
+**[Step - 3]** **create a folder on root directory (lang):** </br> Then Create two folder **en** and **bn** After that make a file **home.php** ( See the folder structure in below ) 
 ```bash
    lang/en/home.php
    lang/bn/home.php
